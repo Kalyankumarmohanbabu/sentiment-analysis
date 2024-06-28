@@ -30,5 +30,3 @@ File Structure:
 Contributing:
 Contributions to the project are welcome! You can contribute by submitting bug fixes, feature enhancements, or documentation improvements through pull requests.
 
-License:
-This project is licensed under the MIT License. See the LICENSE file for details.
